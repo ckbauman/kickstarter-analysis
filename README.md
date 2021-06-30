@@ -3,9 +3,10 @@ An analysis of Kickstarter campaigns to see trends on success rates, failure rat
 
 testing how to write
 
-this is a chart
+The Chart below shows different kickstarter categories.  As you can see from the bar chart, the most campaigns are for theater and they are primarily successful
 
-![Category Chart](/This PC/Desktop/Class Projects/Crowdfunding Analysis/Category Chart.png)
+![Category Chart](https://github.com/ckbauman/kickstarter-analysis/blob/main/Category%20Chart.png)
+
 
 
 
