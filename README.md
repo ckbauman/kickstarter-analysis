@@ -51,7 +51,9 @@ Following are the results of the data broken out to include only Plays and outco
 
 ![Outcome goals data](https://github.com/ckbauman/kickstarter-analysis/blob/main/Outcomes%20Based%20on%20Goals%20Data.png)
 
-The following chart includes the Percent Outcomes per Dollar amount Goals for Plays.
+The following chart includes the Goal amount vs. the Percent Outcomes for Plays.
+
+![Outcome goals chart](https://github.com/ckbauman/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
