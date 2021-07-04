@@ -61,7 +61,7 @@ The following chart includes the Goal amount vs. the Percent Outcomes for Plays.
 
 Please note that Theater data includes all information for Musicals, Plays and Spaces.  Plays make up approximatley 76% of the dataset, while Spaces is 13% and Musicals is at 10%.  Anlysis of this data broken out by subcategory show that Spaces and Musicals are very sporatic, where Plays determines the primary trend for Theater productions.  In hindsight, this dataset should only be looking at Plays to keep our analysis consistent between the 2 review categories.
 
-#### Challenges for Outcomes Basaed on Goals
+#### Challenges for Outcomes Based on Goals
 
 Both the Success and Failure lines are fairly consistent until around the $35,000 amount.  Further analysis should be done to determine what is causing these anomalies in the dataset.
 
