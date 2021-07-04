@@ -38,7 +38,9 @@ The following image includes the data used in the chart further below.  The data
 ![Launch Date Data](https://github.com/ckbauman/kickstarter-analysis/blob/main/Theater%20outcomes%20based%20on%20Launch%20Date%20DATA.png)
 
 The Launch Date chart below, indicates Theater outcomes of Successful, Failed or Canceled campaigns.
-]
+
+![Launch Date Chart](https://github.com/ckbauman/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+
 ### Outcomes Based on Goals
 
 Our next review looks at data only for Plays and their Goal amounts.  We wanted to determine if there is any correlation between initial Goal amounts and success rates.
