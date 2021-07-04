@@ -35,8 +35,9 @@ Following is a sample of the dataset used in this analysis. The primary dataset 
 
 The following image includes the data used in the chart further below.  The data includes the Outcome of Successful, Failed or Canceled **Theater** campaigns and is broken out by months the campaigns were launched. There were a total of 1,369 Theater campaigns.
 
+![Launch Date Data
 The Launch Date chart below, indicates Theater outcomes of Successful, Failed or Canceled campaigns.
-
+]
 ### Outcomes Based on Goals
 
 Our next review looks at data only for Plays and their Goal amounts.  We wanted to determine if there is any correlation between initial Goal amounts and success rates.
