@@ -49,6 +49,8 @@ The analysis was completed using the same initial dataset used in the prior anal
 
 Following are the results of the data broken out to include only Plays and outcomes with their Goal amount.  Percentages were created in each category (Successful, Failed, Canceled).
 
+![Outcome goals data](https://github.com/ckbauman/kickstarter-analysis/blob/main/Outcomes%20Based%20on%20Goals%20Data.png)
+
 The following chart includes the Percent Outcomes per Dollar amount Goals for Plays.
 
 ### Challenges and Difficulties Encountered
