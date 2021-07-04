@@ -6,7 +6,7 @@ Through analysis of Kickstarter fundraising data in various entertainment catego
 
 Louise has specifically been interested in Fundraising data for plays throughout the United States and Great Britain.  This analysis lead to a successfull introduction of the Play *Fever*, where she was able to come close to their fundraising goal in the kickstarter campaign.
 
-Louise is now interested in reviewing other kickstarter campaigns for theater, to see how well campaigns fared based on lauch date and their funding goals.
+Louise is now interested in reviewing other kickstarter campaigns for theater, to see how well campaigns fared based on launch date and their funding goals.
 
 ## Analysis and Challenges
 
