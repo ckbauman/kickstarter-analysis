@@ -31,6 +31,8 @@ Following is a sample of the dataset used in this analysis. The primary dataset 
 
 ![Kickstarter Data1](https://github.com/ckbauman/kickstarter-analysis/blob/main/KickstarterData1.png)
 
+![Kickstarter Data2](https://github.com/ckbauman/kickstarter-analysis/blob/main/KickstarterData2.png)
+
 The following image includes the data used in the chart further below.  The data includes the Outcome of Successful, Failed or Canceled **Theater** campaigns and is broken out by months the campaigns were launched. There were a total of 1,369 Theater campaigns.
 
 The Launch Date chart below, indicates Theater outcomes of Successful, Failed or Canceled campaigns.
